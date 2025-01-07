@@ -1,4 +1,4 @@
-## Статья
+# Статья
 
 ![Статья](https://github.com/user-attachments/assets/0355cc4d-ce82-45ba-8d16-f213fc22f2ed)
 
